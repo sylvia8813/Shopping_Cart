@@ -59,7 +59,7 @@ if __name__ == '__main__':
       print("2. 顯示購物車內容")
       print("3. 付款")
       print("4. 離開")
-    #   print("5. 查看餘額")
+      print("5. 查看餘額")
 
       choice = input("\n請輸入選項 (1/2/3/4): ")
 
